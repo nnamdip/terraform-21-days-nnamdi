@@ -1,1 +1,2 @@
-# terraform-21-days-nnamdi
+Welcome to this course
+terraform-21-days-nnamdi
